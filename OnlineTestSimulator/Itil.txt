@@ -1,0 +1,2371 @@
+QUESTION NO: 1
+Which of the following is NOT an example of Self-Help capabilities?
+A. Requirement to always call the service desk for service requests
+B. Menu-driven range of self help and service requests
+C. Web front-end
+D. A direct interface into the back end process handling software
+Answer: A
+QUESTION NO: 2
+What is a RACI model used for?
+A. Defining roles and responsibilities
+B. Monitoring services
+C. Performance analysis
+D. Recording Configuration Items
+Answer: A
+QUESTION NO: 3
+Which of the following statements is INCORRECT?
+A. The SKMS is part of the Configuration Management System (CMS)
+B. The SKMS can include data on the performance of the organization
+C. The Service Knowledge Management System (SKMS) includes Configuration Management
+Databases (CMDB)
+D. The SKMS can include user skill levels
+Answer: A
+QUESTION NO: 4
+The group that authorizes changes that must be installed faster than the normal process is called
+the?
+A. Emergency CAB (ECAB)
+B. Urgent Change Authority (UCA)
+C. Urgent Change Board (UCB)
+D. CAB Emergency Committee (CAB/EC)
+Answer: A
+QUESTION NO: 5
+In which core publication can you find detailed descriptions of Service Level Management,
+Availability Management, Supplier Management and IT Service Continuity Management?
+A. Service Transition
+B. Service Design
+C. Service Strategy
+D. Service Operation
+Answer: B
+QUESTION NO: 6
+Which of these statements about Service Desk staff is CORRECT?
+A. Service Desk staff should be recruited from people who have high levels of technical
+skilltominimise the cost of training them
+B. The Service Desk can often be used as a stepping stone for staff to move into other more
+technical or supervisory roles
+C. The Service Desk should try to have a high level of staff turnover as the training requirements
+are low and this helps to minimise salaries
+D. Service Desk staff should be discouraged from applying for other roles as it is more cost
+effective to keep them in the role where they have been trained
+Answer: B
+QUESTION NO: 7
+Which of the following statements is INCORRECT?
+A. The Service Knowledge Management System (SKMS) includes Configuration Management
+Databases (CMDB)
+B. The SKMS is part of the Configuration Management System (CMS)
+C. The SKMS can include data on the performance of the organization
+D. The SKMS can include user skill levels
+Answer: B
+QUESTION NO: 8
+Service Assets are used to create value. Which of the following are the MAJOR types of Service
+Asset?
+A. Services and Infrastructure
+B. Applications and Infrastructure
+C. Resources and Capabilities
+D. Utility and Warranty
+Answer: C
+QUESTION NO: 9
+Which of the following is NOT one of the five individual aspects of Service Design?
+A. The design of the Service Portfolio, including the Service Catalogue
+B. The design of Market Spaces
+C. The design of new or changed services
+D. The design of the technology architecture and management systems
+Answer: B
+QUESTION NO: 10
+Which of the following is NOT the responsibility of the Service Catalogue Manager?
+A. Ensuring that all operational services are recorded in the Service Catalogue
+B. Ensuring that information in the Service Catalogue is accurate
+C. Ensuring that information in the Service Catalogue is consistent with information in the Service Portfolio
+D. Ensuring that information within the Service Pipeline is accurate
+Answer: D
+QUESTION NO: 11
+Which role would you MOST expect to be involved in the management of Underpinning
+Contracts?
+A. Service Catalogue Manager
+B. IT Designer/Architect
+C. Process Manager
+D. Supplier Manager
+Answer: D
+QUESTION NO: 12
+Which is the correct combination of Service Management terms across the Lifecycle?
+A. 1A, 2B, 3C, 4D
+B. 1C, 2D, 3A, 4B
+C. 1C, 2B, 3A, 4D
+D. 1B, 2C, 3D, 4A
+Answer: C
+QUESTION NO: 13
+A plan for managing the end of a supplier contract should be created when?
+A. The contract is being negotiated
+B. The contract is about to be ended
+C. The Supplier Manager decides that there is a risk the contract might need to end soon
+D. The contract has been agreed
+Answer: A
+QUESTION NO: 14
+Which of the following sentences BEST describes a Standard Change?
+A. A change to the service provider's established policies and guidelines
+B. A pre-authorised change that has an accepted and established procedure
+C. A change that is made as the result of an audit
+D. A change that correctly follows the required change process
+Answer: B
+QUESTION NO: 15
+The BEST description of the purpose of Service Operation is?
+A. To decide how IT will engage with suppliers during the Service Management Lifecycle
+B. To proactively prevent all outages to IT Services
+C. To deliver and support IT Services at agreed levels to business users and customers
+D. To design and build processes that will meet business needs
+Answer: C
+QUESTION NO: 16
+Exhibit:
+Please refer to the exhibit:
+Which of the statements is CORRECT for every process?
+A. 1 only
+B. Neither of the above
+C. 2 only
+D. Both of the above
+Answer: A
+QUESTION NO: 17
+Which of these statements about Service Desk staff is CORRECT?
+A. Service Desk staff should be recruited from people who have high levels of technical
+skilltominimise the cost of training them
+B. Service Desk staff should be discouraged from applying for other roles as it is more cost
+effective to keep them in the role where they have been trained
+C. The Service Desk can often be used as a stepping stone for staff to move into other more
+technical or supervisory roles
+D. The Service Desk should try to have a high level of staff turnover as the training requirements
+are low and this helps to minimise salaries
+Answer: C
+QUESTION NO: 18
+Which of the following questions does Service Strategy help answer with its guidance?
+1. How do we prioritize investments across a portfolio?
+2. What services to offer and to whom?
+3. What are the Patterns of Business Activity (PBA)?
+A. 3 only
+B. 1 only
+C. 2 only
+D. All of the above
+Answer: D
+QUESTION NO: 19
+Effective release and deployment management enables the service provider to add value to the
+business by?
+A. Ensuring that all assets are accounted for
+B. Ensures that the fastest servers are purchased
+C. Delivering change, faster and at optimum cost and minimized risk
+D. Verifying the accuracy of all items in the configuration management database
+Answer: C
+QUESTION NO: 20
+How many times should each stage of the Plan, Do, Check, Act (PDCA) cycle be visited?
+A. Each stage should be carried out once in the order Plan-Do-Check-Act
+B. There should be a singlePlan,then the Do-Check-Act cycle should be repeated multiple times to
+implement Continual Improvement
+C. There should be a single Plan andDo,then Check and Act should be carried out multiple times
+to implement Continual Improvement
+D. The entire cycle should be repeated multiple times to implement Continual Improvement
+Answer: D
+QUESTION NO: 21
+Within the Continual Service Improvement (CSI) 7 step improvement process, data needs to be
+gathered and analysed from which other area of the lifecycle in order to answer the question "Did
+we get there?"?
+A. Service Strategy
+B. Service Design
+C. Service Operation
+D. Service Transition
+Answer: C
+QUESTION NO: 22
+Which of the following are responsibilities of a Service Level Manager?
+1. Agreeing targets in Service Level Agreements
+2. Designing the service so it can meet the targets
+3. Ensuring all needed contracts and agreements are in place
+A. 1 and 3 only
+B. All of the above
+C. 2 and 3 only
+D. 1 and 2 only
+Answer: A
+QUESTION NO: 23
+Which of the following combinations covers all the roles in Service Asset and Configuration
+Management?
+A. Configuration Administrator/Librarian; Configuration Manager; Service Desk Manager;
+Configuration Analyst; CMS/tools Administrator
+B. Configuration Administrator/Librarian; Service Asset Manager; Configuration Manager;
+Configuration Analyst; Configuration control board; CMS/tools Administrator
+C. Configuration Manager; Configuration Analyst; CMS/tools Administrator; Librarian; Change
+Manager
+D. Configuration Administrator/Librarian; Configuration Manager; Configuration Analyst;
+Configuration control board; CMS/tools Administrator; Financial Asset Manager
+Answer: B
+QUESTION NO: 24
+In many organisations the role of Incident Manager is assigned to the Service Desk.
+It is important that the Incident Manager is given the authority to:
+A. Only manage Incidents effectively through 1st and 2nd line
+B. Only manage Incidents effectively through the 1st line
+C. Only manage Incidents effectively at the 3rd line
+D. Manage Incidents effectively through 1st, 2nd and 3rd line
+Answer: D
+QUESTION NO: 25
+Which of the following statements is CORRECT?
+A. The CMS is part of the Configuration Management Data Base (CMDB)
+B. The KEDB and the CMS form part of the larger SKMS
+C. The Service Knowledge Management System (SKMS) is part of the CMS
+D. The Configuration Management System (CMS) is part of the Known Error Data Base (KEDB)
+Answer: B
+QUESTION NO: 26
+The MAIN purpose of the Service Portfolio is to describe services in terms of?
+A. Business Value
+B. Functionality
+C. IT Assets
+D. Service Level Requirements
+Answer: A
+QUESTION NO: 27
+Application Management plays a role in all applications. One of the key decisions to which they
+contribute is?
+A. Whether to buy an application or build it
+B. Should application developmentbeoutsourced
+C. Who the vendor of the storage devices will be
+D. Where the vendor of an applicationislocated
+Answer: A
+QUESTION NO: 28
+What is the entry point or the first level of the V model?
+A. Service Solution
+B. Customer / Business Needs
+C. Service Release
+D. Service Requirements
+Answer: B
+QUESTION NO: 29
+What is the entry point or the first level of the V model?
+A. Customer / Business Needs
+B. Service Release
+C. Service Requirements
+D. Service Solution
+Answer: A
+QUESTION NO: 30
+Service Acceptance criteria are used to?
+A. Ensure the design stage of the Lifecycle
+B. Ensure Portfolio Management is in place
+C. Ensure delivery and support of a service
+D. Ensure service Key Performance Indicators (KPIs) are reported
+Answer: C
+QUESTION NO: 31
+Contracts relating to an outsourced Data Centre would be managed by?
+A. Service Desk
+B. Facilities Management
+C. Technical Management
+D. IT Operations Control
+Answer: B
+QUESTION NO: 32
+Which of the following are Service Desk organisational structures?
+1. Local Service Desk
+2. Virtual Service Desk
+3. IT Help Desk
+4. Follow the Sun
+A. 2, 3 and 4 only
+B. 1, 2 and 4 only
+C. 1, 2 and 3 only
+D. 1, 3 and 4 only
+Answer: B
+QUESTION NO: 33
+"Service Management is a set of specialised organisational capabilities for providing value to
+customers in the form of services". These specialised organisational capabilities include which of
+the following?
+A. Markets and Customers
+B. Functions and Processes
+C. People, products and technology
+D. Applications and Infrastructure
+Answer: B
+QUESTION NO: 34
+Which of the following is NOT a valid objective of Request Fulfilment?
+A. To provide a channel for users to request and receive standard services
+B. To update the Service Catalogue with services that may be requested through the Service Desk
+C. To provide information to users about what services are available and how to request them
+D. To source and deliver the components of standardservicesthat have been requested
+Answer: B
+QUESTION NO: 35
+Effective release and deployment management enables the service provider to add value to the
+business by?
+A. Ensures that the fastest servers are purchased
+B. Delivering change, faster and at optimum cost and minimized risk
+C. Verifying the accuracy of all items in the configuration management database
+D. Ensuring that all assets are accounted for
+Answer: B
+QUESTION NO: 36
+Which process is responsible for discussing reports with customers showing whether services
+have met their targets?
+A. Availability Management
+B. Service Level Management
+C. Continual Service Improvement
+D. Business Relationship Management
+Answer: B
+QUESTION NO: 37
+What are the three Service Provider business models?
+A. Internal Service provider, External Service provider, Outsourced 3rd Party
+B. Internal Service Operations provider, External Service Operations provider, Shared Service Unit
+C. Internal Service provider, Outsourced 3rd party and Off-shore party
+D. Internal Service provider, External Service provider, Shared Service Provider
+Answer: D
+QUESTION NO: 38
+Which of the following CANNOT be stored and managed by a tool?
+A. Data
+B. Knowledge
+C. Wisdom
+D. Information
+Answer: C
+QUESTION NO: 39
+Which process is responsible for frequently occurring changes where risk and cost are low?
+A. Incident Management
+B. Requestfulfilment
+C. Release and Deployment Management
+D. Access management
+Answer: B
+QUESTION NO: 40
+Which of the following statements is CORRECT?
+1. The only phase of the Service Management Lifecycle where value can be measured is Service
+Operation
+2. All of the phases of the lifecycle are concerned with the value of IT services
+A. Both of the above
+B. Neither of the above
+C. 2 only
+D. 1 only
+Answer: C
+QUESTION NO: 41
+The BEST description of the purpose of Service Operation is?
+A. To design and build processes that will meet business needs
+B. To deliver and support IT Services at agreed levels to business users and customers
+C. To decide how IT will engage with suppliers during the Service Management Lifecycle
+D. To proactively prevent all outages to IT Services
+Answer: B
+QUESTION NO: 42
+Which of the following is NOT an aim of the Change Management process?
+A. Overall business riskisoptimised
+B. Standardised methods and procedures are used for efficient and prompt handling of all
+Changes
+C. All budgets and expenditures are accounted for
+D. All changes to Service Assets and Configuration Items (CIs) are recorded in the Configuration
+Management system
+Answer: C
+QUESTION NO: 43
+How does Problem Management work with Change Management?
+A. By installing changes to fix problems
+B. By negotiating with Incident Management for changes in IT for Problem resolution
+C. ByissuingRFCs for permanent solutions
+D. By working with users to change their IT configurations
+Answer: C
+QUESTION NO: 44
+Which of the following statements is CORRECT?
+A. The CMS is part of the Configuration Management Data Base (CMDB)
+B. The Configuration Management System (CMS) is part of the Known Error Data Base (KEDB)
+C. The Service Knowledge Management System (SKMS) is part of the CMS
+D. The KEDB and the CMS form part of the larger SKMS
+Answer: D
+QUESTION NO: 45
+Understanding customer usage of services and how this varies over the Business Lifecycle is part
+of which process?
+A. Service Portfolio Management
+B. Service Level Management
+C. Component Capacity Management
+D. Demand Management
+Answer: D
+QUESTION NO: 46
+Which is NOT a purpose of Service Transition?
+A. Ensure that a service can be managed, operated and supported.
+B. Provide quality knowledge of Change, Release and Deployment Mgmt.
+C. Plan and manage the capacity and resource requirements to manage a release.
+D. Provide training and certification in project management.
+Answer: D
+QUESTION NO: 47
+Which of the following is the BEST definition of an Incident?
+A. Loss of ability to operate to specification, or to deliver the required output
+B. A change of state which has significance for the management of a Configuration Item or IT
+Service
+C. A warning that a threshold has been reached, something has changed, or a failure has
+occurred
+D. An unplanned interruption to an IT service or reduction in the quality of an IT service
+Answer: D
+QUESTION NO: 48
+The BEST description of the guidance provided by Service Design is?
+A. The design and development of new services
+B. The design and development of service improvements
+C. The design and development of services and service management processes
+D. The day-to-day operation and support of services
+Answer: C
+QUESTION NO: 49
+How many times should each stage of the Plan, Do, Check, Act (PDCA) cycle be visited?
+A. Each stage should be carried out once in the order Plan-Do-Check-Act
+B. There should be a single Plan andDo,then Check and Act should be carried out multiple times
+to implement Continual Improvement
+C. The entire cycle should be repeated multiple times to implement Continual Improvement
+D. There should be a singlePlan,then the Do-Check-Act cycle should be repeated multiple times to
+implement Continual Improvement
+Answer: C
+QUESTION NO: 50
+Which process is responsible for frequently occurring changes where risk and cost are low?
+A. Access management
+B. Requestfulfilment
+C. Release and Deployment Management
+D. Incident Management
+Answer: B
+QUESTION NO: 51
+To add value to the business, what are the four reasons to monitor and measure?
+A. Validate; Direct; Justify; Improve
+B. Evaluate; Diagnose; Justify; Intervene
+C. Validate; Direct; Justify; Intervene
+D. Evaluate; Direct; Justify; Improve
+Answer: C
+QUESTION NO: 52
+Before embarking on the 7-step Continual Service Improvement (CSI) process, which of the
+following items need to be identified?
+A. BusinessObjectives,IT Objectives, Process Metrics
+B. Process Models, Goals and Objectives
+C. Vision and Strategy, Tactical Goals and Operational Goals
+D. BusinessandIT Strategy and Process Definitions
+Answer: C
+QUESTION NO: 53
+Which of the following statements is CORRECT for every process?
+1. It delivers its primary results to a customer or stakeholder
+2. It defines activities that are executed by a single function
+A. 2 only
+B. 1 only
+C. Neither of the above
+D. Both of the above
+Answer: B
+QUESTION NO: 54
+Service Assets are used to create value. Which of the following are the MAJOR types of Service
+Asset?
+A. Resources and Capabilities
+B. Services and Infrastructure
+C. Utility and Warranty
+D. Applications and Infrastructure
+Answer: A
+QUESTION NO: 55
+Which of the following sentences BEST describes a Standard Change?
+A. A change to the service provider's established policies and guidelines
+B. A change that correctly follows the required change process
+C. A change that is made as the result of an audit
+D. A pre-authorised change that has an accepted and established procedure
+Answer: D
+QUESTION NO: 56
+What is the definition of an Alert?
+A. An error message to the user of an application
+B. A warning that a threshold has been reached or that something has changed
+C. A type of Incident
+D. An audit report that indicates areas where IT is not performing according to agreed procedures
+Answer: B
+QUESTION NO: 57
+Which of the following would NOT be a task carried out by the Request Fulfilment process?
+A. The sourcing and delivering of the components of requested standard services (e.g. licenses
+and software media)
+B. Provision of a channel for users to request and receive standard services for which a predefined
+approval and qualification process exists
+C. Provision of information used to compare actual performance against design standards
+D. Provision of information to users and customers about the availability of services and the
+procedure for obtaining them
+Answer: C
+QUESTION NO: 58
+The group that authorizes changes that must be installed faster than the normal process is called
+the?
+A. Urgent Change Board (UCB)
+B. CAB Emergency Committee (CAB/EC)
+C. Emergency CAB (ECAB)
+D. Urgent Change Authority (UCA)
+Answer: C
+QUESTION NO: 59
+Which of the following CANNOT be stored and managed by a tool?
+A. Data
+B. Wisdom
+C. Information
+D. Knowledge
+Answer: B
+QUESTION NO: 60
+Which of the following is NOT a characteristic of a process?
+A. It is measurable
+B. Delivers specific results
+C. A method of structuring an organization
+D. Responds to specific events
+Answer: C
+QUESTION NO: 61
+Which role would you MOST expect to be involved in the management of Underpinning
+Contracts?
+A. IT Designer/Architect
+B. Process Manager
+C. Service Catalogue Manager
+D. Supplier Manager
+Answer: D
+QUESTION NO: 62
+Which of the following is NOT the responsibility of the Service Catalogue Manager?
+A. Ensuring that all operational services are recorded in the Service Catalogue
+B. Ensuring that information in the Service Catalogue is consistent with information in the Service
+Portfolio
+C. Ensuring that information in the Service Catalogue is accurate
+D. Ensuring that information within the Service Pipeline is accurate
+Answer: D
+QUESTION NO: 63
+The difference between service metrics and technology metrics is BEST described as?
+A. Service metrics measure the end to end service; Technology metrics measure individual
+components
+B. Service metrics measure maturity and cost; Technology metrics measure efficiency and
+effectiveness
+C. Service metrics include critical success factors and Key Performance Indicators; Technology
+metrics include availability and capacity
+D. Service metrics measure each of the service management processes; Technology metrics
+measure the infrastructure
+Answer: A
+QUESTION NO: 64
+The term 'Service Management' is best used to describe?
+A. Units oforganisations with roles to perform certain activities
+B. A set of specialized organizational capabilities for providing value to customers in the form of
+services
+C. The management of functions withinanorganisation to perform certain activities
+D. A setofspecialised organisational capabilities for providing functions to customers in the form of
+services
+Answer: B
+QUESTION NO: 65
+Which of the following is the BEST definition of an Incident?
+A. A warning that a threshold has been reached, something has changed, or a failure has
+occurred
+B. An unplanned interruption to an IT service or reduction in the quality of an IT service
+C. A change of state which has significance for the management of a Configuration Item or IT
+Service
+D. Loss of ability to operate to specification, or to deliver the required output
+Answer: B
+QUESTION NO: 66
+Who is responsible for ensuring that the Request Fulfilment process is being performed according
+to the agreed and documented process?
+A. TheRequestFulfilment Process Manager
+B. TheRequestFulfilment Process Owner
+C. The Service Desk Manager
+D. The Service Manager
+Answer: B
+QUESTION NO: 67
+Which Service Design process makes the most use of data supplied by Demand Management?
+A. IT Service Continuity Management
+B. Service Level Management
+C. Service Catalogue Management
+D. Capacity Management
+Answer: D
+QUESTION NO: 68
+Which of the following statements is CORRECT?
+A. The KEDB and the CMS form part of the larger SKMS
+B. The Configuration Management System (CMS) is part of the Known Error Data Base (KEDB)
+C. The Service Knowledge Management System (SKMS) is part of the CMS
+D. The CMS is part of the Configuration Management Data Base (CMDB)
+Answer: A
+QUESTION NO: 69
+The group that authorizes changes that must be installed faster than the normal process is called
+the?
+A. CAB Emergency Committee (CAB/EC)
+B. Emergency CAB (ECAB)
+C. Urgent Change Board (UCB)
+D. Urgent Change Authority (UCA)
+Answer: B
+QUESTION NO: 70
+What is a RACI model used for?
+A. Performance analysis
+B. Recording Configuration Items
+C. Defining roles and responsibilities
+D. Monitoring services
+Answer: C
+QUESTION NO: 71
+Which of the following statements about processes is INCORRECT?
+A. The output from a process has to conform to operational norms derived from business
+objectives
+B. The objective of any IT process should be expressed in terms of business benefits and goals
+C. A process may define policies, standards and guidelines
+D. The definition of Process Control is "The activity of planning and regulating a process, with the
+objective of achieving Best Practice"
+Answer: D
+QUESTION NO: 72
+Which of the following sentences BEST describes a Standard Change?
+A. A pre-authorised change that has an accepted and established procedure
+B. A change that is made as the result of an audit
+C. A change that correctly follows the required change process
+D. A change to the service provider's established policies and guidelines
+Answer: A
+QUESTION NO: 73
+What are the three Service Provider business models?
+A. Internal Service provider, External Service provider, Shared Service Provider
+B. Internal Service Operations provider, External Service Operations provider, Shared Service Unit
+C. Internal Service provider, External Service provider, Outsourced 3rd Party
+D. Internal Service provider, Outsourced 3rd party and Off-shore party
+Answer: A
+QUESTION NO: 74
+Which of the following statements about processes is INCORRECT?
+A. The output from a process has to conform to operational norms derived from business
+objectives
+B. The definition of Process Control is "The activity of planning and regulating a process, with the
+objective of achieving Best Practice"
+C. The objective of any IT process should be expressed in terms of business benefits and goals
+D. A process may define policies, standards and guidelines
+Answer: B
+QUESTION NO: 75
+A Service Level Agreement is?
+A. The part of a contract that specifies responsibilities of each party
+B. An agreement between the Service Provider and their customer
+C. An agreement between a Service Provider and an external supplier
+D. An agreement between the Service Provider and aninternalorganisation
+Answer: B
+QUESTION NO: 76
+One of the five major aspects of Service Design is the design of the service solutions. It includes?
+A. Requirements, resources and capabilities needed and agreed
+B. Only requirements needed and agreed
+C. Only capabilities needed and agreed
+D. Only resources and capabilities needed
+Answer: A
+QUESTION NO: 77
+Who is responsible for ensuring that the Request Fulfilment process is being performed according
+to the agreed and documented process?
+A. The Service Desk Manager
+B. The Service Manager
+C. TheRequestFulfilment Process Manager
+D. TheRequestFulfilment Process Owner
+Answer: D
+QUESTION NO: 78
+Which of the following is NOT part of the Service Design phase of the Service Lifecycle?
+A. Produce quality, secure and resilient designs for new or improved services, technology
+architecture, processes or measurement systems that meet all the agreed current and future IT
+requirements oftheorganisation
+B. Produce and maintain all necessary Service Transition packages
+C. Take the overall Service Strategies and ensure they are reflected in the Service Design process
+and the service designs that are produced
+D. Measuring the effectiveness and efficiency of Service Design and the supporting processes
+Answer: B
+QUESTION NO: 79
+Which is the correct combination of Service Management terms across the Lifecycle?
+A. 1C, 2B, 3A, 4D
+B. 1A, 2B, 3C, 4D
+C. 1C, 2D, 3A, 4B
+D. 1B, 2C, 3D, 4A
+Answer: A
+QUESTION NO: 80
+Staff in an IT department areexperts in managing specific technology, but none of them know what
+services are offered to the business. What imbalance does this represent?
+A. Extreme focus on cost
+B. Extreme focus on responsiveness
+C. Vendor focused
+D. Extreme internal focus
+Answer: D
+QUESTION NO: 81
+Which is the first step in the 7 Step Improvement Process?
+A. Where are we now?
+B. Identify gaps in Service Level Agreement (SLA) achievement
+C. Prepare for action
+D. Define what you should measure
+Answer: D
+QUESTION NO: 82
+Which of the following is NOT part of the Service Design phase of the Service Lifecycle?
+A. Produce and maintain all necessary Service Transition packages
+B. Produce quality, secure and resilient designs for new or improved services, technology
+architecture, processes or measurement systems that meet all the agreed current and future IT
+requirements oftheorganisation
+C. Take the overall Service Strategies and ensure they are reflected in the Service Design process
+and the service designs that are produced
+D. Measuring the effectiveness and efficiency of Service Design and the supporting processes
+Answer: A
+QUESTION NO: 83
+In which core publication can you find detailed descriptions of Service Level Management,
+Availability Management, Supplier Management and IT Service Continuity Management?
+A. Service Operation
+B. Service Transition
+C. Service Strategy
+D. Service Design
+Answer: D
+QUESTION NO: 84
+Who is responsible for ensuring that the Request Fulfilment process is being performed according
+to the agreed and documented process?
+A. TheRequestFulfilment Process Manager
+B. TheRequestFulfilment Process Owner
+C. The Service Manager
+D. The Service Desk Manager
+Answer: B
+QUESTION NO: 85
+Which Service Design process makes the most use of data supplied by Demand Management?
+A. IT Service Continuity Management
+B. Service Catalogue Management
+C. Capacity Management
+D. Service Level Management
+Answer: C
+QUESTION NO: 86
+Which of the following statements BEST describes a Definitive Media Library (DML)?
+A. A secure location where definitive hardware spares are held
+B. A secure electronic library that contains all copies of softwareandlicences
+C. A secure library where definitiveauthorised versions of all software and back-ups are stored and
+protected
+D. A secure library where definitive authorized versions of all media Configuration Items (CIs) are
+stored and protected
+Answer: D
+QUESTION NO: 87
+The BEST description of the purpose of Service Operation is?
+A. To decide how IT will engage with suppliers during the Service Management Lifecycle
+B. To design and build processes that will meet business needs
+C. To proactively prevent all outages to IT Services
+D. To deliver and support IT Services at agreed levels to business users and customers
+Answer: D
+QUESTION NO: 88
+Which of the following is NOT an aim of the Change Management process?
+A. All changes to Service Assets and Configuration Items (CIs) are recorded in the Configuration
+Management system
+B. Overall business riskisoptimised
+C. Standardised methods and procedures are used for efficient and prompt handling of all
+Changes
+D. All budgets and expenditures are accounted for
+Answer: D
+QUESTION NO: 89
+Which of these is NOT a responsibility of Application Management?
+A. Ensuring that the correct skills are available to manage the infrastructure
+B. Providing guidance to IT Operations about how best to manage the application
+C. Deciding whether to buy or build an application
+D. Assisting in the design of the application
+Answer: A
+QUESTION NO: 90
+What is a RACI model used for?
+A. Defining roles and responsibilities
+B. Performance analysis
+C. Recording Configuration Items
+D. Monitoring services
+Answer: A
+QUESTION NO: 91
+Which is the first step in the 7 Step Improvement Process?
+A. Prepare for action
+B. Define what you should measure
+C. Identify gaps in Service Level Agreement (SLA) achievement
+D. Where are we now?
+Answer: B
+QUESTION NO: 92
+What is the definition of an Alert?
+A. A type of Incident
+B. A warning that a threshold has been reached or that something has changed
+C. An error message to the user of an application
+D. An audit report that indicates areas where IT is not performing according to agreed procedures
+Answer: B
+QUESTION NO: 93
+Which one of the following statements about Incident reporting and logging is correct?
+A. All calls to the Service Desk must be logged as Incidents to assist in reporting Service Desk
+activity
+B. Incidents reported by technical staff must be logged as problems because technical staff
+manage infrastructure devices not services
+C. Incident can only be reported by users, since they are only the only people who know when a
+service has been disrupted
+D. Incidents can be reported by anyone who detects a disruptions or potential disruption to normal
+service. This includes technical staff
+Answer: B
+QUESTION NO: 94
+To add value to the business, what are the four reasons to monitor and measure?
+A. Evaluate; Diagnose; Justify; Intervene
+B. Validate; Direct; Justify; Improve
+C. Validate; Direct; Justify; Intervene
+D. Evaluate; Direct; Justify; Improve
+Answer: C
+QUESTION NO: 95
+In Service Operation, if too much emphasis is placed on 'Stability', what might the likely outcome
+be in terms of responsiveness to customer needs?
+A. Customersneeds will be met more easily because of the improved stability of the services with
+fewer failures to disrupt timely delivery
+B. From the information given, it is not possible to comment regarding the impact on
+responsiveness of over-emphasis on stability
+C. There is only likely to be a positive outcome from improved stability - the customers must be
+made fully aware of this and their expectations regarding responsiveness must be managed
+D. It is possible that responsiveness may sufferandcustomers needs may not be met within
+business timescales
+Answer: D
+QUESTION NO: 96
+Which of the following CANNOT be stored and managed by a tool?
+A. Knowledge
+B. Data
+C. Information
+D. Wisdom
+Answer: D
+QUESTION NO: 97
+Major Incidents require?
+A. Less documentation
+B. Longer timescales
+C. Less urgency
+D. Separate procedures
+Answer: D
+QUESTION NO: 98
+Which of the following is NOT one of the five individual aspects of Service Design?
+A. The design of the Service Portfolio, including the Service Catalogue
+B. The design of the technology architecture and management systems
+C. The design of Market Spaces
+D. The design of new or changed services
+Answer: C
+QUESTION NO: 99
+Which of the following is NOT an objective of Problem Management?
+A. Eliminating recurring Incidents
+B. Minimising the impact of Incidents that cannot be prevented
+C. Preventing Problems and resulting Incidents from happening
+D. Restoring normal service operation as quickly as possibleandminimising adverse impact on the
+business
+Answer: D
+QUESTION NO: 100
+Which of the following statements BEST describes a Definitive Media Library (DML)?
+A. A secure location where definitive hardware spares are held
+B. A secure library wheredefinitiveauthorised versions of all software and back-ups are stored and
+protected
+C. A secure electronic library that contains all copies of softwareandlicences
+D. A secure library wheredefinitiveauthorised versions of all media Configuration Items (CIs) are
+stored and protected
+Answer: D
+QUESTION NO: 101
+Which of the following BEST describes a 'Major Incident'?
+A. An Incident that is so complex that the Service Desk takes longer than five times the normal
+time to log it
+B. An Incident which requires a large number of people to resolve
+C. An Incident which has a high impact on the business
+D. An Incident that is so complex that it requires root cause analysis before any workaround can
+be found
+Answer: C
+QUESTION NO: 102
+Which of the following is NOT part of the Service Design phase of the Service Lifecycle?
+A. Produce quality, secure and resilient designs for new or improved services, technology
+architecture, processes or measurement systems that meet all the agreed current and future IT
+requirements oftheorganisation
+B. Take the overall Service Strategies and ensure they are reflected in the Service Design process
+and the service designs that are produced
+C. Produce and maintain all necessary Service Transition packages
+D. Measuring the effectiveness and efficiency of Service Design and the supporting processes
+Answer: C
+QUESTION NO: 103
+Contracts relating to an outsourced Data Centre would be managed by?
+A. Service Desk
+B. IT Operations Control
+C. Technical Management
+D. Facilities Management
+Answer: D
+QUESTION NO: 104
+An IT department is under pressure to cut costs. As a result, the quality of services has started to
+suffer. What imbalance does this represent?
+A. Excessive focus on quality
+B. Excessively reactive
+C. Excessively proactive
+D. Excessive focus on cost
+Answer: D
+QUESTION NO: 105
+Which of the following is NOT a valid objective of Request Fulfilment?
+A. To provide information to users about what services are available and how to request them
+B. To update the Service Catalogue with services that may be requested through the Service Desk
+C. To source and deliver the components of standardservicesthat have been requested
+D. To provide a channel for users to request and receive standard services
+Answer: B
+QUESTION NO: 106
+What is the definition of an Alert?
+A. An error message to the user of an application
+B. An audit report that indicates areas where IT is not performing according to agreed procedures
+C. A warning that a threshold has been reached or that something has changed
+D. A type of Incident
+Answer: C
+QUESTION NO: 107
+"Service Management is a set of specialised organisational capabilities for providing value to
+customers in the form of services". These specialised organisational capabilities include which of
+the following?
+A. Functions and Processes
+B. Markets and Customers
+C. Applications and Infrastructure
+D. People, products and technology
+Answer: A
+QUESTION NO: 108
+Which process is responsible for discussing reports with customers showing whether services
+have met their targets?
+A. Business Relationship Management
+B. Continual Service Improvement
+C. Service Level Management
+D. Availability Management
+Answer: C
+QUESTION NO: 109
+Which of the following statements about processes is INCORRECT?
+A. The objective of any IT process should be expressed in terms of business benefits and goals
+B. A process may define policies, standards and guidelines
+C. The definition of Process Control is "The activity of planning and regulating a process, with the
+objective of achieving Best Practice"
+D. The output from a process has to conform to operational norms derived from business
+objectives
+Answer: C
+QUESTION NO: 110
+How is the Service Catalogue used to add value to the service provider organisation?
+A. Providing a central source of information on the IT services delivered
+B. Showing the business impact of a change
+C. Displaying the relationships between configuration items
+D. To predict the root cause of issues in the IT infrastructure
+Answer: A
+QUESTION NO: 111
+Which process is responsible for monitoring an IT Service and detecting when the performance
+drops below acceptable limits?
+A. Service Level Management
+B. Performance Management
+C. Capacity Management
+D. Event Management
+Answer: B
+QUESTION NO: 112
+In many organisations the role of Incident Manager is assigned to the Service Desk. It is important
+that the Incident Manager is given the authority to:
+A. Only manage Incidents effectively at the 3rd line
+B. Manage Incidents effectively through 1st, 2nd and 3rd line
+C. Only manage Incidents effectively through 1st and 2nd line
+D. Only manage Incidents effectively through the 1st line
+Answer: B
+QUESTION NO: 113
+Application Management plays a role in all applications. One of the key decisions to which they
+contribute is?
+A. Whether to buy an application or build it
+B. Should application developmentbeoutsourced
+C. Who the vendor of the storage devices will be
+D. Where the vendor of an applicationislocated
+Answer: A
+QUESTION NO: 114
+Which of the following questions does Service Strategy help answer with its guidance?
+1. How do we prioritize investments across a portfolio?
+2. What services to offer and to whom?
+3. What are the Patterns of Business Activity (PBA)?
+A. 2 only
+B. 1 only
+C. All of the above
+D. 3 only
+Answer: C
+QUESTION NO: 115
+Removing or restricting rights to use an IT Service is the responsibility of which process?
+A. Access Management
+B. Incident Management
+C. RequestFulfilment
+D. Change Management
+Answer: A
+QUESTION NO: 116
+Which of the following is NOT a characteristic of a process?
+A. Delivers specific results
+B. A method of structuringanorganisation
+C. Responds to specific events
+D. It is measurable
+Answer: B
+QUESTION NO: 117
+Service Assets are used to create value. Which of the following are the MAJOR types of Service
+Asset?
+A. Applications and Infrastructure
+B. Services and Infrastructure
+C. Resources and Capabilities
+D. Utility and Warranty
+Answer: C
+QUESTION NO: 118
+Staff in an IT department areexperts in managing specific technology, but none of them know what
+services are offered to the business. What imbalance does this represent?
+A. Extreme internal focus
+B. Extreme focus on cost
+C. Extreme focus on responsiveness
+D. Vendor focused
+Answer: A
+QUESTION NO: 119
+Which of the following is NOT a characteristic of a process?
+A. Delivers specific results
+B. Responds to specific events
+C. It is measurable
+D. A method of structuringanorganisation
+Answer: D
+QUESTION NO: 120
+Which Function would provide staff to monitor events in a Network Operations Centre?
+A. IT Operations Management
+B. Applications Management
+C. Service Desk
+D. Technical Management
+Answer: A
+QUESTION NO: 121
+Which of the following is a responsibility of Supplier Management?
+A. Development, negotiation and agreement of contracts.
+B. Development, negotiation and agreement of Organisational Level Agreements
+C. Development, negotiation and agreement of Service Level Agreements.
+D. Development, negotiation and agreement of Service Portfolio
+Answer: C
+QUESTION NO: 122
+Which of the following areas would not be supported by a Service Design tool?
+A. Software design
+B. Process design
+C. Environment design
+D. Strategy design
+Answer: B
+QUESTION NO: 123
+Which of the following is concerned with fairness and transparency?
+A. Governance
+B. Service Level Management
+C. Capacity Management
+D. Service Strategy
+Answer: B
+QUESTION NO: 124
+Which Function would provide staff to monitor events in an Operations Bridge?
+A. Applications Management
+B. Service Desk
+C. Technical Management
+D. IT Operations Management
+Answer: C
+QUESTION NO: 125
+Who is responsible for defining Key Performance Indicators for Change Management?
+A. The Service Owner
+B. The Continual Service Improvement Manager
+C. The Change Advisory Board (CAB)
+D. The Change Management Process Owner
+Answer: A
+QUESTION NO: 126
+The difference between a Service Level Agreement (SLA) and an Operional Level Agreement
+(OLA) is that:
+A. An SLA is legally binding, an OLA is a best efforts agreement
+B. An SLA defines the service to be provided, an OLA defines internal support needed to deliver
+the service
+C. An SLA defines Service Level Requirements, an OLA defines Service Level Targets
+D. An SLA is with an external customer, an OLA is with an internal customer
+Answer: A
+QUESTION NO: 127
+Which of the following is one of the primary objectives of Service Strategy?
+A. To design and build processes that will meet business needs
+B. To provide detailed specifications for the design of IT services
+C. To transform Service Management into a strategic asset
+D. To underscore the importance of services in the global economy
+Answer: B
+QUESTION NO: 128
+Which of the following best describes a Service Request?
+A. Any request or demand that is entered by a user via a Self-Help web-based interface
+B. A request from a User for information or advice, or for a Standard Change
+C. Any request for change that is low risk and can be approved by the Change Manager without a
+CAB meeting
+D. Anything that the customer wants and is prepared to pay for
+Answer: C
+QUESTION NO: 129
+Which of the following are the main objectives of incident Management? Select all that apply
+A. To minimize adverse impacts on business operations
+B. To automatically detect service affecting Events
+C. The restore normal service operation as quickly as possible
+Answer: A
+QUESTION NO: 130
+What are the categories of event described in the ITIL Service Operation book?
+A. Informational, Scheduled, Normal
+B. Scheduled, Unscheduled, Emergency
+C. Informational, Warning, Exception
+D. Warning, Reactive, Proactive
+Answer: C
+QUESTION NO: 131
+Which processes review Underpinning Contracts on a regular basis?
+A. Supplier Management and Service Level Management
+B. Supplier Management and Demand Management
+C. Demand Management and Service Level Management
+D. Supplier Management, Demand Management and Service Level Management
+Answer: A
+QUESTION NO: 132
+Which process is responsible for managing relationships with vendors?
+A. Change Management
+B. Service Portfolio Management
+C. Supplier Management
+D. Continual Service Improvement
+Answer: C
+QUESTION NO: 133
+Understanding what to measure and why it is being measured are key contributors to which part of
+the Service Lifecycle?
+A. Service Strategy
+B. Continual Service Improvement
+C. Service Operation
+D. Service Design
+Answer: B
+QUESTION NO: 134
+Which process is responsible for low risk, frequently occurring, low cost changes?
+A. Demand Management
+B. Incident Management
+C. Release and Deployment Management
+D. RequestFulfilment
+Answer: D
+QUESTION NO: 135
+Within Service Design, what is the key output handed over to Service Transition?
+A. Measurement, methods and metrics
+B. Service Design Package
+C. Service Portfolio Design
+D. Process definitions
+Answer: B
+QUESTION NO: 136
+Which of the following is NOT an objective of Continual Service Improvement?
+A. Review andanalyse Service Level Achievement results
+B. Identify activities to improve the efficiency of service management processes
+C. Improve the cost effectiveness of IT services without sacrificing customer satisfaction
+D. Conduct activities to deliver and manage services at agreed levels to business users
+Answer: D
+QUESTION NO: 137
+Which of the following statements about communication within Service Operation are CORRECT?
+1. All communication must have an intended purpose or resultant action
+2. Communication should not take place without a clear audience
+A. 1 only
+B. 2 only
+C. Bothofthe above
+D. Noneofthe above
+Answer: C
+QUESTION NO: 138
+Access Management is closely related to which other processes?
+A. Availability Management only
+B. Information Security Management and 3rd line support
+C. Information Security Management and Availability Management
+D. Information Security Management only
+Answer: C
+QUESTION NO: 139
+Which process will regularly analyze incident data to identify discernable trends?
+A. Service Level Management
+B. Problem Management
+C. Change Management
+D. Event Management
+Answer: B
+QUESTION NO: 140
+Which is the CORRECT list for the three levels of a multi level Service Level Agreement(SLA)?
+A. Technology, Customer, User
+B. Corporate, Customer, Service
+C. Corporate, Customer, Technology
+D. Service, User, IT
+Answer: B
+QUESTION NO: 141
+Which of these is the correct set of steps for the Continual Service Improvement Model?
+A. Devise a strategy; Design the solution; Transition into production; Operate the solution;
+Continually Improve
+B. Where do we want to be?; How do we get there?; How do we check we arrived?; How do we
+keep the momentum going?
+C. Identify the required business outcomes; Plan how to achieve the outcomes; Implement the
+plan; Check the plan has been properly implemented;Improve the solution
+D. What is the vision?; Where are we now?; Where do we want to be?; How do we get there?; Did
+we get there?; How do we keep the momentum going?
+Answer: D
+QUESTION NO: 142
+Match the following activities with the Deming Cycle stages
+1. Monitor, Measure and Review
+2. Continual Improvement
+3. Implement Initiatives
+4. Plan for Improvement
+A. 1 Plan, 2 Do, 3 Check, 4 Act
+B. 3 Plan, 2 Do, 4 Check, 1 Act
+C. 4 Plan, 3 Do, 1 Check, 2 Act
+D. 2 Plan, 3 Do, 4 Check, 1 Act
+Answer: C
+QUESTION NO: 143
+A Know Error has been raised after diagnosis of a Problem was complete but before a workaround
+has been found. Is this a valid approach?
+A. Yes
+B. No, the workaround must be found before a Known Error is created
+C. No, a Known Error can only be raised after the permanent resolution has been implemented
+D. No, a Known Error must be raised at the same time as a problem
+Answer: A
+QUESTION NO: 144
+Which of the following is NOT a Service Desk type recognised in the Service Operation volume of
+ITIL?
+A. Local
+B. Centralised
+C. Holistic
+D. Virtual
+Answer: C
+QUESTION NO: 145
+Customer perceptions and business outcomes help to define what?
+A. The value of a service
+B. Customer satisfaction
+C. Total cost of ownership
+D. Key performance indicators
+Answer: A
+QUESTION NO: 146
+Service Design emphasises the importance of the "Four Ps". These "Four P's" include Partners,
+People, Processes and one other "P". Which of the following is the additional "P"?
+A. Profit
+B. Preparation
+C. Products
+D. Potential
+Answer: C
+QUESTION NO: 147
+Which stage of the Continuous Service Improvement (CSI) model stages is BEST described as
+'Understand and agree on the priorities for improvement based on a deeper development of the
+principles defined in the vision?
+A. Where are we now?
+B. Where do we want to be?
+C. How do we get there?
+D. Did we get there?
+Answer: B
+QUESTION NO: 148
+Which of the following does the Availability Management process include?
+1. Ensuring services are able to meet availability targets
+2. Monitoring and reporting actual availability
+3. Improvement activities, to ensure that services continue to meet or exceed their availability
+goals
+A. 1 only
+B. All of the above
+C. 1 and 2 only
+D. 1 and 3 only
+Answer: B
+QUESTION NO: 149
+In which of the following situations should a Problem Record be created?
+A. An event indicates that a redundant network segment has failed but it has not impacted any
+users
+B. An Incident is passed to second-level support
+C. A Technical Management team identifies a permanent resolution to a number of recurring
+Incidents
+D. Incident Management has found a workaround but needs some assistance in implementing it
+Answer: C
+QUESTION NO: 150
+Understanding the level of risk during and after change and providing confidence in the degree of
+compliance with governance requirements during change are both ways of adding business value
+through which part of the service lifecycle?
+A. Service Transition
+B. Risk Management
+C. IT Service Continuity Management
+D. Availability Management
+Answer: A
+QUESTION NO: 151
+Which of the following defines the level of protection in Information Security Management?
+A. The IT Executive
+B. The ISO27001 Standard
+C. The Business
+D. The Service Level Manager
+Answer: C
+QUESTION NO: 152
+Which of these would fall outside the scope of a typical service change management process
+A. A change to a contract with a supplier
+B. A firmware upgrade to a server that is only used for IT Service Continuity purposes
+C. An urgent need to replace a CPU to restore a service during an incident
+D. A change to a business process that depends on IT Services
+Answer: D
+QUESTION NO: 153
+Hierarchic escalation is best described as?
+A. Notifying more senior levels of management about an Incident
+B. Passing an Incident to people with a greater level of technical skill
+C. Using more senior specialists than necessary to resolve an Incident to maintain customer
+satisfaction
+D. Failing to meet the Incident resolution times specified in a Service Level Agreement
+Answer: A
+QUESTION NO: 154
+Which of the following is NOT a valid objective of Problem Management?
+A. To prevent Problems and their resultant Incidents
+B. To manage Problems throughout their lifecycle
+C. To restore service to a user
+D. To eliminate recurring Incidents
+Answer: C
+QUESTION NO: 155
+There are four types of metrics that can be used to measure the capability and performance of
+processes. Which of the four metrics is missing from the list below?
+1. Progress
+2. Effectiveness
+3. Efficiency
+4. ?
+A. Cost
+B. Conformance
+C. Compliance
+D. Capacity
+Answer: C
+QUESTION NO: 156
+The information that is passed to Service Transition to enable them to implement a new service is
+called:
+A. A Service Level Package
+B. A Service Transition Package
+C. A Service Design Package
+D. A New Service Package
+Answer: C
+QUESTION NO: 157
+Which of the following can help determine the level of impact of a problem?
+A. Definitive Media Library (DML)
+B. Configuration Management System (CMS)
+C. Statement of Requirements (SOR)
+D. Standard Operating Procedures (SOP)
+Answer: B
+QUESTION NO: 158
+You are reviewing a presentation that will relay the value of adopting Service Design disciplines.
+Which statement would NOT be part of the value proposition?
+A. Reduced Total Cost of Ownership
+B. Improved quality of service
+C. Improved Service alignment with business goals
+D. Better balance of technical skills to support live services
+Answer: D
+QUESTION NO: 159
+Which of these are objectives of Service Level Management
+1: Defining, documenting and agreeing the level of IT Services to be provided
+2: Monitoring, measuring and reporting the actual level of services provided
+3: Monitoring and improving customer satisfaction
+4: Identifying possible future markets that the Service Provider could operate in
+A. 1, 2 and 3 only
+B. 1 and 2 only
+C. 1, 2 and 4 only
+D. All of the above
+Answer: A
+QUESTION NO: 160
+What is the objective of Access Management?
+A. To provide security staff for Data Centers and other buildings
+B. To manage access to computer rooms and other secure locations
+C. To manage access to the Service Desk
+D. To manage the right to use a service or group of services
+Answer: D
+QUESTION NO: 161
+Which of the following is NOT a benefit of using public frameworks and standards?
+A. Knowledge of public frameworks is more likely to be widely distributed
+B. They are always free ensuring they can be implemented quickly
+C. They are validated across a wide range of environments making them more robust
+D. They make collaboration between organizations easier by giving a common language
+Answer: B
+QUESTION NO: 162
+Which of the following should be available to the Service Desk?
+1. Known Error Data
+2. Change Schedules
+3. Service Knowledge Management System
+4. The output from monitoring tools
+A. 1,2 and 3 only
+B. 1,2 and4 only
+C. 2,3 and 4 only
+D. All of the above
+Answer: D
+QUESTION NO: 163
+Which of the following is the BEST description of a relationship in Service Asset and Configuration
+Management?
+A. Describes the topography of the hardware
+B. Describes how the Configuration Items (CIs) work together to deliver the services
+C. Defines which software should be installed on a particular piece of hardware
+D. Defines how version numbers should be used in a release
+Answer: B
+QUESTION NO: 164
+"Planning and managing the resources required to deploy a release into production" is a purpose
+of which part of the Service Lifecycle?
+A. Service Operation
+B. Service Strategy
+C. Service Transition
+D. Continual Service Improvement
+Answer: C
+QUESTION NO: 165
+Which of the following statements about Service Asset and Configuration Management is/are
+CORRECT?
+1. A Configuration Item (CI) can exist as part of any number of other CIs at the same time
+2. Choosing the right CI level is a matter of achieving a balance between information availability
+and the right level of control
+A. 1 only
+B. 2 only
+C. Bothofthe above
+D. Neitherofthe above
+Answer: C
+QUESTION NO: 166
+Which of the following statements about the Service Portfolio and Service Catalogue is the MOST
+CORRECT?
+A. The Service Catalogue only has information about services that are live, or being prepared
+fordeployment; the Service Portfolio only has information about services which are being
+considered for future development
+B. The Service Catalogue has information about all services; the Service Portfolio only has
+information about services which are being considered for future development
+C. The Service Portfolio has information about all services; the Service Catalogue only has
+information about services which are live, or being prepared for deployment
+D. Service Catalogue and Service Portfolio are different names for the same thing
+Answer: C
+QUESTION NO: 167
+Data used to support the capacity management process should be stored in:
+A. A configuration management database (CMDB)
+B. A capacity database (CDB)
+C. A configuration management system (CMS)
+D. A capacity management information system (CMIS)
+Answer: D
+QUESTION NO: 168
+A consultant has made two recommendations to you in a report:
+1. To include legal terminology in your Service Level Agreements (SLAs)
+2. It is not necessary to be able to measure all the targets in an SLA
+Which of the recommendations conform to Service Level Management good practice?
+A. 1 only
+B. 2 only
+C. Both of the above
+D. Neither of the above
+Answer: D
+QUESTION NO: 169
+Availability Management is responsible for availability of the:
+A. Services and Components
+B. Services and Business Processes
+C. Components and Business Processes
+D. Services, Components and Business Processes
+Answer: A
+QUESTION NO: 170
+Which part of the service lifecycle is responsible for coordinating and carrying out the activities and
+processes required to deliver and manage services at agreed levels to business users and
+customers?
+A. Continual Service Improvement
+B. Service Transition
+C. Service Design
+D. Service Operation
+Answer: D
+QUESTION NO: 171
+Which statement about the Emergency Change Advisory Board (ECAB) is CORRECT?
+A. The ECAB considers every high priority Request for Change
+B. Amongst the duties of the ECAB is the review of completed emergency changes
+C. The ECAB will be used for emergency changes where there may not be time to call a full CAB
+D. The ECAB will be chaired by the IT Director
+Answer: C
+QUESTION NO: 172
+Which of the following statements is INCORRECT?
+The Service Owner:
+A. Is responsible for the day-to-day monitoring and operation of the service they own
+B. Is responsible for continual improvement and the management of change affecting the service
+they own
+C. Is a primary stakeholder in all of the underlying IT processes which support the service theyown
+D. Is accountable for a specific service within an organization
+Answer: A
+QUESTION NO: 173
+Which of these statements about Resources and Capabilities is CORRECT?
+A. Resources are types of Service Asset and Capabilities are not
+B. Resources and Capabilities are both types of Service Asset
+C. Capabilities are types of Service Asset and Resources are not
+D. Neither Capabilities nor Resources are types of Service Asset
+Answer: B
+QUESTION NO: 174
+The consideration of business outcomes and value creation are principles of which part of the
+Service Lifecycle?
+A. Continual Service Improvement
+B. Service Strategy
+C. Service Design
+D. Service Transition
+Answer: B
+QUESTION NO: 175
+What guidance does ITIL give on the frequency of production of service reporting?
+A. Service reporting intervals must be defined and agreed with the customers
+B. Reporting intervals should be set by the Service Provider
+C. Reports should be produced weekly
+D. Service reporting intervals must be the same for all services
+Answer: A
+QUESTION NO: 176
+Which role or function is responsible for monitoring activities and events in the IT Infrastructure?
+A. Service Level Management
+B. IT Operations Management
+C. Capacity Management
+D. Incident Management
+Answer: B
+QUESTION NO: 177
+Which of the following BEST describes the goal of Access Management?
+A. To provide a channel for users to request and receive standard services
+B. Provides the rights for users to be able to use a service or group of services
+C. To prevent Problems and resulting Incidents from happening
+D. To detect security events and make sense of them
+Answer: B
+QUESTION NO: 178
+Identity and Rights are two major concepts involved in which one of the following processes?
+A. Access Management
+B. Facilities Management
+C. Event Management
+D. Demand Management
+Answer: A
+QUESTION NO: 179
+A risk is:
+A. Something that won't happen
+B. Something that will happen
+C. Something that has happened
+D. Something that might happen
+Answer: D
+QUESTION NO: 180
+What are the publications that provide guidance specific to industry sectors and organization types
+known as?
+A. The Service Strategy and Service Transition books
+B. The ITIL Complementary Guidance
+C. The Service Support and Service Delivery books
+D. Pocket Guides
+Answer: B
+QUESTION NO: 181
+A Process Owner has been identified with an "I" in a RACI matrix. Which of the following would be
+expected of them?
+A. Tell others about the progress of an activity
+B. Perform an activity
+C. Be kept up to date on the progress of an activity
+D. Manage an activity
+Answer: C
+QUESTION NO: 182
+Which of the following statements correctly states the relationship between urgency, priority and
+impact?
+A. Impact, priority and urgency are independent of each other
+B. Urgency should be based on impact and priority
+C. Impact should be based on urgency and priority
+D. Priority should be based on impact and urgency
+Answer: D
+QUESTION NO: 183
+Which of the following statements BEST describes the aims of Release and Deployment
+Management?
+A. To build, test and deliver the capability to provide the services specified by Service Design and
+that will accomplish the stakeholders requirements and deliver the intended objectives
+B. To ensure that each Release package specified by Service Design consists of a set of related
+assets and service components that are compatible with each other
+C. To ensure that all Release and Deployment packages can be tracked, installed, tested, verified
+and/or uninstalled or backed out if appropriate
+D. To record and manage deviations, risks and issues related to the new or changed service
+Answer: A
+QUESTION NO: 184
+Which of the following are goals of Service Operation?
+1. To coordinate and carry out the activities and processes required to deliver and manage
+services at agreed levels to the business
+2. The successful release of services into the live environment
+A. 1 only
+B. 2 only
+C. Bothofthe above
+D. Neitherofthe above
+Answer: A
+QUESTION NO: 185
+Which statement about Service Level Agreements (SLAs) is CORRECT?
+A. They must contain legal wording because of their importance
+B. There should always be a separate SLA for each specific customer
+C. The wording must be clear and concise to allow no room for ambiguity
+D. Changes to the SLA can only be requested by the customer
+Answer: C
+QUESTION NO: 186
+Which of the following activities are helped by recording relationships between Configuration Items
+(CIs)?
+1. Assessing the impact and cause of Incidents and Problems
+2. Assessing the impact of proposed Changes
+3. Planning and designing a Change to an existing service
+4. Planning a technology refresh or software upgrade
+A. 1 and 2 only
+B. All of the above
+C. 1, 2 and 4 only
+D. 1, 3 and 4 only
+Answer: B
+QUESTION NO: 187
+What does a service always deliver to customers?
+A. Applications
+B. Infrastructure
+C. Value
+D. Resources
+Answer: C
+QUESTION NO: 188
+Which of the following areas would technology help to support during the Service Transition phase
+of the lifecycle?
+1. Data mining and workflow tools
+2. Measurement and reporting systems
+3. Release and deployment technology
+4. Process Design
+A. 2, 3 and 4 only
+B. 1, 3 and 4 only
+C. 1, 2 and 3 only
+D. All of the above
+Answer: C
+QUESTION NO: 189
+Which of the following do Service Metrics measure?
+A. Processes and functions
+B. Maturity and cost
+C. The end to end service
+D. Infrastructure availability
+Answer: C
+QUESTION NO: 190
+Which of the following is the BEST description of a Service-based Service Level Agreement
+(SLA)?
+A. An agreement with an individual customer group, covering all the services that they use
+B. An agreement that covers one service for a single customer
+C. An agreement that covers service specific issues in a multi-level SLA structure
+D. An agreement that covers one service for all users of that service
+Answer: D
+QUESTION NO: 191
+Which of the following statements about processes is CORRECT?
+1. A process is always organized around a set of objectives
+2. A process should be documented
+A. 1 only
+B. 2 only
+C. Bothofthe above
+D. Neitherofthe above
+Answer: C
+QUESTION NO: 192
+Which role is accountable for a specific service within an organization?
+A. The Service Level Manager
+B. The Business Relationship Manager
+C. The Service Owner
+D. The Service Continuity Manager
+Answer: C
+QUESTION NO: 193
+Which of the following Availability Management activities are considered to be proactive as
+opposed to reactive?
+1. Risk assessment
+2. Testing of resilience mechanisms
+3. Monitoring of component availability
+A. All of the above
+B. 1 and 2 only
+C. 1 and 3 only
+D. 2 and 3 only
+Answer: B
+QUESTION NO: 194
+Which of the following is the BEST description of a centralised Service Desk?
+A. The desk is co-located within or physically close to the user community it serves
+B. The desk uses technology and other support tools to give the impression that multiple desk
+locations are in one place
+C. The desk provides 24 hour global support
+D. There is a single desk in one location serving the whole organization
+Answer: D
+QUESTION NO: 195
+What would be the next step in the Continual Service Improvement (CSI) Model after:
+1. What is the vision?
+2. Where are we now?
+3. Where do we want to be?
+4. How do we get there?
+5. Did we get there?
+6. ?
+A. What is the ReturnOn Investment (ROI)?
+B. How much did it cost?
+C. How do we keep the momentum going?
+D. What is the ValueOn Investment (VOI)?
+Answer: C
+QUESTION NO: 196
+Which stage of the Change Management process deals with what should be done if the change is
+unsuccessful?
+A. Remediation Planning
+B. Categorization
+C. Prioritization
+D. Review and Close
+Answer: A
+QUESTION NO: 197
+Which of the following is NOT a purpose of Service Transition?
+A. To ensure that a service can be managed, operated and supported
+B. To provide training and certification in project management
+C. To provide quality knowledge of Change, Release and Deployment Management
+D. To plan and manage the capacity and resource requirements to manage a release
+Answer: B
+QUESTION NO: 198
+Which of the following is NOT an objective of the Operations Management function?
+A. Swift application of skills to diagnose any IT Operations failures that occur
+B. Regular scrutiny and improvements to achieve improved service at reduced costs
+C. First line Incident investigation and diagnosis logged by users
+D. Maintenance of status quo to achieve stability of day to day processes and activities
+Answer: C
+QUESTION NO: 199
+Which of these is the BEST description of a release unit?
+A. The portion of a service or IT infrastructure that is normally released together
+B. The smallest part of a service or IT infrastructure that can be independently changed
+C. The portion of a service or IT infrastructure that is changed by a particular release
+D. A metric for measuring the effectiveness of the Release and Deployment Management process
+Answer: A
+QUESTION NO: 200
+Which of the following BEST describes Technical Management?
+A. A Function responsible for Facilities Management and building control systems
+B. A Function that provides hardware repair services for technology involved in the delivery of
+service to customers
+C. Senior managers responsible for all staff within the technical support Function
+D. A Function that includes the groups, departments or teamsthat provide technical expertise and
+overal management of the IT Infrastructure
+Answer: D
+QUESTION NO: 201
+IT Service Continuity strategy should be based on:
+1: Design of the service technology
+2: Business continuity strategy
+3: Business Impact Analysis
+4: Risk assessment
+A. 1, 2 and 4 only
+B. 1, 2 and 3 only
+C. 2, 3 and 4 only
+D. 1, 3 and 4 only
+Answer: C
+QUESTION NO: 202
+Which of these is a reason for categorizing incidents?
+A. To establish trends for use in Problem Management and other IT Service Management (ITSM)
+activities
+B. To ensure that the correct priority is assigned to the incident
+C. To enable the incident management database to be partitioned for greater efficiency
+D. To identify whether the user is entitled to log an incident for this particular service
+Answer: A
+QUESTION NO: 203
+Which of the following activities are responsibilities of a Supplier Manager?
+1. Negotiating and agreeing Contracts
+2. Updating the Supplier and Contract database
+3. Planning for possible closure, renewal or extension of contracts
+4. Managing relationships with internal suppliers
+A. 1, 2 and 3 only
+B. 1, 3 and 4 only
+C. 2, 3 and 4 only
+D. None of the above
+Answer: A
+QUESTION NO: 204
+Who is responsible for ensuring that the Request Fulfilment process is being performed according
+to the agreed and documented process?
+A. The IT Director
+B. The Process Owner
+C. The Service Owner
+D. The Customer
+Answer: B
+QUESTION NO: 205
+When should tests for a new service be designed?
+A. At the same time as the service is designed
+B. After the service has been designed, before the service is handed over to Service Transition
+C. As part of Service Transition
+D. Before the service is designed
+Answer: A
+QUESTION NO: 206
+Defining the processes needed to operate a new service is part of:
+A. Service Design: Design the processes
+B. Service Strategy: Develop the offerings
+C. Service Transition: Plan and prepare for deployment
+D. Service Operation:IT Operations Management
+Answer: A
+QUESTION NO: 207
+Reliability is a measure of:
+A. The availability of a service or component
+B. The level of risk that could impact a service or process
+C. How long a service or component can perform its function withoutfailing
+D. A measure of how quickly a service or component can be restored to normal working
+Answer: C
+QUESTION NO: 208
+What is most likely to cause a loss of faith in the Service Level Management process?
+A. Measurements that match the customer's perception of the service
+B. Clear, concise, unambiguous wording in the Service LevelAgreements(SLAs)
+C. Inclusion of items in the SLA that cannot be effectively measured
+D. Involving customers in drafting Service Level Requirements
+Answer: C
+QUESTION NO: 209
+Which Functions are included in IT Operations Management?
+A. Network Management and Application Management
+B. Technical Management and Change Management
+C. IT Operations Control and Facilities Management
+D. Facilities Management and Release Management
+Answer: C
+QUESTION NO: 210
+As a strategic tool for assessing the value of IT services, Financial Management applies to which
+of the following service provider types?
+1. An internal service provider embedded within a business unit
+2. An internal service provider that provides shared IT services
+3. An external service provider
+A. All of the above
+B. 1 and 2 only
+C. 1 and 3 only
+D. 2 and 3 only
+Answer: A
+QUESTION NO: 211
+What type of improvement should be achieved by using the Deming Cycle?
+A. Rapid, one-off improvement
+B. Return on investment within 12 months
+C. Quick wins
+D. Steady, ongoing improvement
+Answer: D
+QUESTION NO: 212
+The MAIN objective of Service Level Management is:
+A. To carry out the Service Operations activities needed to support current IT services
+B. To ensure that sufficient capacity is provided to deliver the agreed performance of services
+C. To create and populate a Service Catalogue
+D. To ensure that an agreed level of IT service is provided for all current IT services
+Answer: D
+QUESTION NO: 213
+Which process is responsible for controlling, recording and reporting on versions, attributes and
+relationships relating to components of the IT infrastructure?
+A. Service Level Management
+B. Change Management
+C. Incident Management
+D. Service Asset and Configuration Management
+Answer: D
+QUESTION NO: 214
+What is the Service Pipeline?
+A. All services that are at a conceptual or development stage
+B. All services except those that have been retired
+C. All services that are contained within the Service Level Agreement (SLA)
+D. All complex multi-user services
+Answer: A
+QUESTION NO: 215
+Which of the following statements is CORRECT?
+A. IT Service Continuity Management can only take place once Business Continuity Management
+has been established
+B. Where Business Continuity Management is established, business continuity considerations
+should form the focus for IT Service Continuity Management
+C. Business Continuity Management and IT Service Continuity Management must be established
+at the same time
+D. IT Service Continuity Management is not required when IT is outsourced to a third party
+provider
+Answer: B
+QUESTION NO: 216
+Configuration Management Databases (CMDBs) and the Configuration Management System
+(CMS) are both elements of what larger entity?
+A. The Asset Register
+B. The Service Knowledge Management System
+C. The Known Error Database
+D. The Information Management System
+Answer: B
+QUESTION NO: 217
+Where should details of a Workaround always be documented?
+A. The Service Level Agreement (SLA)
+B. The Problem Record
+C. The Availability Management Information System
+D. The IT Service Continuity Plan
+Answer: B
+QUESTION NO: 218
+What are Request Models used for?
+A. Capacity Management
+B. Modelling arrival rates and performance characteristics of service requests
+C. Comparing the advantages and disadvantages of different Service Desk approaches such as
+local or remote
+D. Identifying frequently received user requests and defining how they should be handled
+Answer: D
+QUESTION NO: 219
+Consider the following list:
+1. Change Authority
+2. Change Manager
+3. Change Advisory Board (CAB)
+What are these BEST described as?
+A. Job descriptions
+B. Functions
+C. Teams
+D. Roles, people or groups
+Answer: D
+QUESTION NO: 220
+Which of the following is the BEST description of a Service-based Service Level Agreement
+(SLA)?
+A. The SLA covers one service, for all the customers of that service
+B. The SLA covers an individual customer group for all services they use
+C. An SLA that covers all customers for all services
+D. An SLA for a service with no customers
+Answer: A
+QUESTION NO: 221
+In terms of adding value to the business, which of the following describes Service Operation's
+contribution?
+A. The cost of the service is designed, predicted and validated
+B. Measures for optimization are identified
+C. Service value ismodelled
+D. Service value is actually seen by customers
+Answer: D
+QUESTION NO: 222
+A single Release unit, or a structured set of Release units can be defined within:
+A. The RACI Model
+B. A Release Package
+C. A Request Model
+D. The Plan, Do, Check, Act (PDCA) cycle
+Answer: B
+QUESTION NO: 223
+Why are public frameworks and standards (such as ITIL) attractive when compared to proprietary
+knowledge?
+A. Proprietary Knowledge is difficult to adopt, replicate or transfer since it is oftenundocumented
+B. Public standards are always cheaper to adopt
+C. Public frameworks are prescriptive and tell you exactly what to do
+D. Proprietary knowledge has been tested in a wide range of environments
+Answer: A
+QUESTION NO: 224
+Which of the following are types of communication you could expect the functions within Service
+Operation to perform?
+1. Communication between Data Centre shifts
+2. Communication related to changes
+3. Performance reporting
+4. Routine operational communication
+A. 1 only
+B. 2 and 3 only
+C. 1, 2 and 4 only
+D. All of the above
+Answer: D
+QUESTION NO: 225
+Looking for ways to improve process efficiency and cost effectiveness is a purpose of which part
+of the service lifecycle?
+A. Service Operation
+B. Service Transition
+C. Continual Service Improvement
+D. Service Strategy
+Answer: C
+QUESTION NO: 226
+Which statement BEST represents the guidance on incident logging?
+A. Incidents must only be logged if a resolution is not immediately available
+B. Only incidents reported to the Service Desk can be logged
+C. All incidents must be fully logged
+D. The Service Desk decide which incidents to log
+Answer: C
+QUESTION NO: 227
+In the Continual Service Improvement (CSI) model, the stage 'How do we get there?1 is
+underpinned by which set of activities?
+A. Baseline assessments
+B. Service and process improvements
+C. Taking measurements and recording metrics
+D. Setting measurement targets
+Answer: B
+QUESTION NO: 228
+Who has the responsibility for review and risk analysis of all supplies and contracts on a regular
+basis?
+A. The Service Level Manager
+B. The IT Service Continuity Manager
+C. The Service Catalogue Manager
+D. The Supplier Manager
+Answer: D
+QUESTION NO: 229
+Which of the following should NOT be a concern of Risk Management?
+A. To ensure that the organization can continue to operate in the event of a major disruption or
+disaster
+B. To ensure that the workplace is a safe environment for its employees and customers
+C. To ensure that the organization assets, such as information, facilities and building are protected
+from threats, damage or loss
+D. To ensure only the change requests with mitigated risks are approved for implementation
+Answer: D
+QUESTION NO: 230
+Which of the following is the CORRECT definition of a Release Unit?
+A. A measurement of cost
+B. A function described within Service Transition
+C. The team of people responsible for implementing a release
+D. The portion of a service or IT infrastructure that is normally released together
+Answer: D
+QUESTION NO: 231
+Which process lists "Understanding patterns of business activity" as a major role?
+A. Demand Management
+B. Supplier Management
+C. Service Desk
+D. RequestFulfilment
+Answer: A
+QUESTION NO: 232
+Which of the following statements is CORRECT?
+A. Process owners are more important to service management than service owners
+B. Service owners are more important to service management than process owners
+C. Service owners are as important to service management as process owners
+D. Process owners and service owners are not required within the same organization
+Answer: C
+QUESTION NO: 233
+Where would you expect incident resolution targets to be documented?
+A. A Service Level Agreement (SLA)
+B. A Request for Change (RFC)
+C. The Service Portfolio
+D. A Service Description
+Answer: A
+QUESTION NO: 234
+The positive effect that customers perceive a service can have on their business outcomes is
+referred to as what?
+A. The utility of a service
+B. The warranty of a service
+C. The economic value of a service
+D. Return on investment
+Answer: A
+QUESTION NO: 235
+What are the two major processes in Problem Management?
+A. Technical and Service
+B. Resource and Proactive
+C. Reactive and Technical
+D. Proactive and Reactive
+Answer: D
+QUESTION NO: 236
+Which of the following BEST describes a Change Authority?
+A. The Change Advisory Board
+B. A person that provides formalauthorisation for a particular type of change.
+C. A role, person or a group of people that provides formalauthorisation for a particular type of
+change.
+D. The Change Manager who provides formal authorisation for each change
+Answer: C
+QUESTION NO: 237
+Ensuring that the confidentiality, integrity and availability of the services are maintained to the
+levels agreed on the Service Level Agreement (SLA) is the responsibility of which role?
+A. The Service Level Manager
+B. The Configuration Manager
+C. The Change Manager
+D. The Information Security Manager
+Answer: D
+QUESTION NO: 238
+Which stage of the Service Lifecycle is MOST concerned with defining policies and objectives?
+A. Service Design
+B. Service Transition
+C. Service Strategy
+D. Service Operation
+Answer: C
+QUESTION NO: 239
+Identify the input to the Problem Management process
+A. Request for Change
+B. Problem Resolution
+C. Incident Records
+D. New Known Errors
+Answer: C
+QUESTION NO: 240
+Which of the following provides resources to resolve operational and support issues during
+Release and Deployment?
+A. Early Life Support
+B. Service Test Manager
+C. Evaluation
+D. Release Packaging and Build Manager
+Answer: A
+QUESTION NO: 241
+The Service Catalogue Manager has responsibility for producing and maintaining the Service
+Catalogue. One of their responsibilities would be?
+A. Negotiating and agreeing Service Level Agreement
+B. Negotiating and agreeing Operational Level Agreements
+C. Ensuring that the information within the Service Catalogue is adequately protected and backedup.
+D. Only ensure that adequate technical resources are available.
+Answer: C
+QUESTION NO: 242
+Customer perceptions and business outcomes help to define what?
+A. The value of a service
+B. Customer satisfaction
+C. Total Cost of Ownership (TCO)
+D. Key Performance Indicators (KPIs)
+Answer: A
+QUESTION NO: 243
+Which process contains the Business, Service and Component sub-processes?
+A. Capacity Management
+B. Incident Management
+C. Service Level Management
+D. Financial Management
+Answer: A
+QUESTION NO: 244
+Which of the following should be considered when designing measurement systems, methods and
+metrics?:
+1. The services
+2. The architectures
+3. The configuration items
+4. The processes
+A. 1, 2 and 3 only
+B. 1, 3 and 4 only
+C. 2, 3 and 4 only
+D. All of the above
+Answer: D
+QUESTION NO: 245
+Service Design emphasises the importance of the Four Ps'. Which of the following is a correct list
+of these Four Ps?
+A. People, Products, Partners, Profit
+B. People, Process, Products, Partners
+C. Potential, Preparation, Performance, Profit
+D. People, Potential, Products, Performance
+Answer: B
+QUESTION NO: 246
+With which process is Problem Management likely to share categorization and impact coding
+systems?
+A. Incident Management
+B. Service Asset and Configuration Management
+C. Capacity Management
+D. IT Service Continuity
+Answer: A
+QUESTION NO: 247
+In which document would you expect to see an overview of actual service achievements against
+targets?
+A. Operational Level Agreement (OLA)
+B. Capacity Plan
+C. Service Level Agreement (SLA)
+D. SLA Monitoring Chart (SLAM)
+Answer: D
+QUESTION NO: 248
+Which of the following statements is CORRECT?
+A. The Configuration Management System is part of the Known Error Data Base
+B. The Service Knowledge Management System is part of the Configuration Management System
+C. The Configuration Management System is part of the Service Knowledge Management system
+D. The Configuration Management System is part of the Configuration Management Database
+Answer: C
+QUESTION NO: 249
+Which part of ITIL provides guidance in adapting good practice for specific business environments
+and organizational strategies?
+A. The ITIL Complementary Guidance
+B. The Service Support book
+C. Pocket Guides
+D. The Service Strategy book
+Answer: A
+QUESTION NO: 250
+What type of baseline captures the structure, contents and details of the infrastructure and
+represents a set of items that are related to each other?
+A. Configuration Baseline
+B. Project Baseline
+C. Change Baseline
+D. Asset Baseline
+Answer: A
+QUESTION NO: 251
+Who owns the specific costs and risks associated with providing a service?
+A. The Service Provider
+B. The Service Level Manager
+C. The Customer
+D. The Finance department
+Answer: A
+QUESTION NO: 252
+Which of the following would a Major Problem Review examine?
+1. Things that were done correctly
+2. Those things that were done incorrectly
+3. How to prevent recurrence
+4. What could be done better in the future
+A. 1 only
+B. 2 and 3 only
+C. 1, 2 and 4 only
+D. All of the above
+Answer: D
+QUESTION NO: 253
+What is the name of the area where the definitive authorised versions of all media Configuration
+Items(Cls) are stored and protected?
+A. Definitive Media Library
+B. Definitive Software Store
+C. Service Knowledge Management System
+D. Software Secure Library
+Answer: A
+QUESTION NO: 254
+Which of the following options is a hierarchy that is used in Knowledge Management?
+A. Wisdom - Information - Data - Knowledge
+B. Data - Information - Knowledge - Wisdom
+C. Knowledge - Wisdom - Information - Data
+D. Information - Data - Knowledge - Wisdom
+Answer: B
+QUESTION NO: 255
+Event Management, Problem Management, Access Management and Request Fulfilment are part
+of which stage of the Service Lifecycle?
+A. Service Strategy
+B. Service Transition
+C. Service Operation
+D. Continual Service Improvement
+Answer: C
+QUESTION NO: 256
+Which of the following are aspects of Service Design?
+1. Architectures
+2. Technology
+3. Service Management processes
+4. Metrics
+A. 1 only
+B. 2 and 3 only
+C. 1, 2 and 4 only
+D. All of the above
+Answer: D
+QUESTION NO: 257
+Which is the BEST definition of a Configuration Item (CI)?
+A. An item of hardware or software registered in the asset database
+B. A collection of information used to describe a hardware or software item
+C. An asset, service component or other item that is, or will be, under the control of Configuration
+Management
+D. Information recorded by the Service Desk when an Incident is reported
+Answer: C
+QUESTION NO: 258
+Which model delivers a view of the services, assets and infrastructure?
+A. Incident Model
+B. Problem Model
+C. Configuration Model
+D. Change Model
+Answer: C
+QUESTION NO: 259
+The BEST processes to automate are those that are:
+A. Carried out by Service Operations
+B. Carried out by lots of people
+C. Critical to the success of the business mission
+D. Simple and well understood
+Answer: D
+QUESTION NO: 260
+Which of the following Availability Management activities are considered to be proactive as
+opposed to reactive?
+1. Risk assessment
+2. Testing of resilience mechanisms
+3. Monitoring of component availability
+A. All of the above
+B. 1 and 2 only
+C. 1 and 3 only
+D. 2 and 3 only
+Answer: B
+QUESTION NO: 261
+What is the BEST description of an Operational Level Agreement (OLA)?
+A. An agreement between the service provider and another part of the same organization
+B. An agreement between the service provider and an external organization
+C. A document that describes to a customer how services will be operated on a day-to-day basis
+D. A document that describes business services to operational staff
+Answer: A
+QUESTION NO: 262
+How many people should be accountable for a process as defined in the RACI model?
+A. As many as necessary to complete the activity
+B. Only one - the process owner
+C. Two - the process owner and the process enactor
+D. Only one - the process architect
+Answer: B
+QUESTION NO: 263
+Which of the following statements about processes is INCORRECT?
+A. They are units of organizations designed to perform certain types of work
+B. We must be able to measure them in a relevant manner
+C. They deliver specific results
+D. They respond to specific events
+Answer: A
+QUESTION NO: 264
+Which of the following would be defined as part of every process?
+1. Roles
+2. Activities
+3. Functions
+4. Responsibilities
+A. 1 and 3 only
+B. All of the above
+C. 2 and 4 only
+D. 1, 2 and 4 only
+Answer: D
+QUESTION NO: 265
+The Supplier Management process includes:
+1: Service Design activities, to ensure that contracts will be able to support the service
+requirements
+2: Service Operation activities, to monitor and report supplier achievements
+3: Continual Improvement activities, to ensure that suppliers continue to meet or exceed the needs
+of the business
+A. 1 and 2 only
+B. 1 only
+C. All of the above
+D. 1 and 3 only
+Answer: C
+QUESTION NO: 266
+Which of the following is MOST concerned with the design of new or changed services?
+A. Change Management
+B. Service Transition
+C. Service Strategy
+D. Service Design
+Answer: D
+QUESTION NO: 267
+Which Problem Management activity helps to ensure that the true nature of the problem can be
+easily traced and meaningful management information can be obtained?
+A. Categorization
+B. Logging
+C. Prioritization
+D. Closure
+Answer: A
+QUESTION NO: 268
+Which of the following are Service Desk organizational structures?
+1. Local Service Desk
+2. Virtual Service Desk
+3. IT Help Desk
+4. Follow the Sun
+A. 1, 2 and 4 only
+B. 2, 3 and 4 only
+C. 1, 3 and4 only
+D. 1, 2 and 3 only
+Answer: A
+QUESTION NO: 269
+What are the three types of metrics that an organization should collect to support Continual
+Service Improvement (CSI)?
+A. ReturnOn Investment (ROI), Value On Investment (VOI), quality
+B. Strategic, tactical and operational
+C. Critical Success Factors (CSFs), Key Performance Indicators (KPIs), activities
+D. Technology, process and service
+Answer: D
+QUESTION NO: 270
+Which of the following might be used to manage an Incident?
+1. Incident Model
+2. Known Error Record
+A. 1 only
+B. 2 only
+C. Bothofthe above
+D. Neitherofthe above
+Answer: C
+QUESTION NO: 271
+Which of the following are the two primary elements that create value for customers?
+A. Value on Investment (VOI), Return on Investment (ROI)
+B. Customer and User satisfaction
+C. Understanding Service Requirements and Warranty
+D. Utility and Warranty
+Answer: D
+QUESTION NO: 272
+Check, Act and Plan are three of the stages of the Deming Cycle. Which is the fourth?
+A. Do
+B. Perform
+C. Implement
+D. Measure
+Answer: A
+QUESTION NO: 273
+Which process is primarily supported by the analysis of Patterns of Business Activity (PBA)?
+A. Availability Management
+B. Demand Management
+C. Financial Management
+D. Service Level Management
+Answer: B
+QUESTION NO: 274
+A change process model should include:
+1 - The steps that should be taken to handle the change with any dependences or co-processing
+defined, including handling issues and unexpected events
+2 - Responsibilities; who should do what, including escalation
+3 - Timescales and thresholds for completion of the actions
+4 - Complaints procedures
+A. 1, 2 and 3 only
+B. All of the above
+C. 1 and 2 only
+D. 1, 2 and 4 only
+Answer: A
+QUESTION NO: 275
+Effective Service Transition can significantly improve a service provider's ability to handle high
+volumes of what?
+A. Service level requests
+B. Changes and Releases
+C. Password resets
+D. Incidents and Problems
+Answer: B
+QUESTION NO: 276
+Which of the following should be done when closing an incident?
+1. Check the incident categorization and correct it if necessary
+2. Check that user is satisfied with the outcome
+A. 1 only
+B. Both of the above
+C. 2 only
+D. Neither of the above
+Answer: B
+QUESTION NO: 277
+Which of the following is an objective of Release and Deployment Management?
+A. To standardize methods and procedures used for efficient and prompt handling of all Changes
+B. To ensure all changes to Service Assets and Configuration Items (CIs) are recorded in the
+Configuration Management System (CMS)
+C. To ensure that overall business risk of Change is optimized
+D. To define and agree release and deployment plans with customers and stakeholders
+Answer: D
+QUESTION NO: 278
+Which phase of the ITIL lifecycle provides the following benefit: The Total Cost of Ownership
+(TCO) of a service can be minimised if all aspects of the service, the processes and the
+technology are considered during development?
+A. Service Design
+B. Service Strategy
+C. Service Operation
+D. Continual Service Improvement
+Answer: A
+QUESTION NO: 279
+Which process is responsible for eliminating recurring incidents and minimizing the impact of
+incidents that cannot be prevented?
+A. Service Level Management
+B. Problem Management
+C. Change Management
+D. Event Management
+Answer: B
+QUESTION NO: 280
+A Service Design Package should be produced for which of the following?
+1. A new IT service
+2. A major change to an IT service
+3. An Emergency Change to an IT service
+4. An IT service retirement
+A. 1, 2 and 3 only
+B. 1, 2 and 4 only
+C. 1, 3 and 4 only
+D. All of the above
+Answer: B
+QUESTION NO: 281
+Which of the following BEST describes a Problem?
+A. A Known Error for which the cause and resolution are not yet known
+B. The cause of two or more Incidents
+C. A serious Incident which has a critical impact to the business
+D. The cause of one or more Incidents
+Answer: D
+QUESTION NO: 282
+A process owner is responsible for which of the following?
+1. Documenting the process
+2. Defining process Key Performance Indicators (KPIs)
+3. Improving the process
+4. Ensuring process staff undertake the required training
+A. 1, 3 and 4 only
+B. All of the above
+C. 1, 2 and 3 only
+D. 1, 2 and 4 only
+Answer: B
+QUESTION NO: 283
+Contracts are used to define:
+A. The provision of IT services or business services by a Service Provider
+B. The provision of goods and services by Suppliers
+C. Service Levels that have been agreed between the Service Provider and their Customer
+D. Metrics and Critical Success Factors (CSFs) in an external agreement
+Answer: B
+QUESTION NO: 284
+In the phrase "People, Processes, Products and Partners". Products refers to:
+A. IT Infrastructure and Applications
+B. Services, technology and tools
+C. Goods provided by third parties to support the IT Services
+D. All assets belonging to the Service Provider
+Answer: B
+QUESTION NO: 285
+Service Transition contains detailed descriptions of which processes?
+A. Change Management, Service Asset and Configuration Management, Release and Deployment
+Management
+B. Change Management, Capacity Management Event Management, Service Request
+Management
+C. Service Level Management, Service Portfolio Management, Service Asset and Configuration
+Management
+D. Service Asset and Configuration Management, Release and Deployment Management,
+RequestFulfilment
+Answer: A
+QUESTION NO: 286
+Implementation of ITIL Service Management requires preparing and planning the effective and
+efficient use of:
+A. People, Process, Partners, Suppliers
+B. People, Process, Products, Technology
+C. People, Process, Products, Partners
+D. People, Products, Technology, Partners
+Answer: C
+QUESTION NO: 287
+Which of the following is the BEST definition of an Event?
+A. Any detectable or discernable occurrence that has significance for the management of the IT
+infrastructure
+B. An unplanned interruption to an IT service
+C. The unknown cause of one or more Incidents
+D. Reducing or eliminating the cause of an Incident or Problem
+Answer: A
+QUESTION NO: 288
+Which process is responsible for sourcing and delivering components of requested standard
+services?
+A. RequestFulfilment
+B. Service Portfolio Management
+C. Service Desk
+D. IT Finance
+Answer: A
+QUESTION NO: 289
+Undertaking a gap analysis is a key activity within which part of the Deming Cycle for improving
+services and service management processes?
+A. Plan
+B. Do
+C. Check
+D. Act
+Answer: A
+QUESTION NO: 290
+Which of the following is the BEST description of a Business Case?
+A. A decision support and planning tool that projects the likely consequences of a business action
+B. A portable device designed for the secure storage and transportation of important documents
+C. A complaint by the business about a missed service level.
+D. The terms and conditions in an IT outsource contract.
+Answer: A
+QUESTION NO: 291
+Which of the following could BEST be described as "A decision support and planning tool that
+projects
+the likely consequences of a business action"?
+A. A Problem model
+B. A Service Improvement Plan (SIP)
+C. A Request for Change (RFC)
+D. A Business Case
+Answer: D

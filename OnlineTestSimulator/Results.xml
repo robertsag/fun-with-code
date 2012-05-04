@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestionAnswer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestionAnswer>
+    <Question>52
+Before embarking on the 7-step Continual Service Improvement (CSI) process, which of the
+following items need to be identified?
+A. BusinessObjectives,IT Objectives, Process Metrics
+B. Process Models, Goals and Objectives
+C. Vision and Strategy, Tactical Goals and Operational Goals
+D. BusinessandIT Strategy and Process Definitions
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>27
+Application Management plays a role in all applications. One of the key decisions to which they
+contribute is?
+A. Whether to buy an application or build it
+B. Should application developmentbeoutsourced
+C. Who the vendor of the storage devices will be
+D. Where the vendor of an applicationislocated
+</Question>
+    <ActualAnswer>A</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>278
+Which phase of the ITIL lifecycle provides the following benefit: The Total Cost of Ownership
+(TCO) of a service can be minimised if all aspects of the service, the processes and the
+technology are considered during development?
+A. Service Design
+B. Service Strategy
+C. Service Operation
+D. Continual Service Improvement
+</Question>
+    <ActualAnswer>A</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>266
+Which of the following is MOST concerned with the design of new or changed services?
+A. Change Management
+B. Service Transition
+C. Service Strategy
+D. Service Design
+</Question>
+    <ActualAnswer>D</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>70
+What is a RACI model used for?
+A. Performance analysis
+B. Recording Configuration Items
+C. Defining roles and responsibilities
+D. Monitoring services
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>84
+Who is responsible for ensuring that the Request Fulfilment process is being performed according
+to the agreed and documented process?
+A. TheRequestFulfilment Process Manager
+B. TheRequestFulfilment Process Owner
+C. The Service Manager
+D. The Service Desk Manager
+</Question>
+    <ActualAnswer>B</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>286
+Implementation of ITIL Service Management requires preparing and planning the effective and
+efficient use of:
+A. People, Process, Partners, Suppliers
+B. People, Process, Products, Technology
+C. People, Process, Products, Partners
+D. People, Products, Technology, Partners
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>172
+Which of the following statements is INCORRECT?
+The Service Owner:
+A. Is responsible for the day-to-day monitoring and operation of the service they own
+B. Is responsible for continual improvement and the management of change affecting the service
+they own
+C. Is a primary stakeholder in all of the underlying IT processes which support the service theyown
+D. Is accountable for a specific service within an organization
+</Question>
+    <ActualAnswer>A</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>196
+Which stage of the Change Management process deals with what should be done if the change is
+unsuccessful?
+A. Remediation Planning
+B. Categorization
+C. Prioritization
+D. Review and Close
+</Question>
+    <ActualAnswer>A</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>251
+Who owns the specific costs and risks associated with providing a service?
+A. The Service Provider
+B. The Service Level Manager
+C. The Customer
+D. The Finance department
+</Question>
+    <ActualAnswer>A</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>224
+Which of the following are types of communication you could expect the functions within Service
+Operation to perform?
+1. Communication between Data Centre shifts
+2. Communication related to changes
+3. Performance reporting
+4. Routine operational communication
+A. 1 only
+B. 2 and 3 only
+C. 1, 2 and 4 only
+D. All of the above
+</Question>
+    <ActualAnswer>D</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>49
+How many times should each stage of the Plan, Do, Check, Act (PDCA) cycle be visited?
+A. Each stage should be carried out once in the order Plan-Do-Check-Act
+B. There should be a single Plan andDo,then Check and Act should be carried out multiple times
+to implement Continual Improvement
+C. The entire cycle should be repeated multiple times to implement Continual Improvement
+D. There should be a singlePlan,then the Do-Check-Act cycle should be repeated multiple times to
+implement Continual Improvement
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>120
+Which Function would provide staff to monitor events in a Network Operations Centre?
+A. IT Operations Management
+B. Applications Management
+C. Service Desk
+D. Technical Management
+</Question>
+    <ActualAnswer>A</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>137
+Which of the following statements about communication within Service Operation are CORRECT?
+1. All communication must have an intended purpose or resultant action
+2. Communication should not take place without a clear audience
+A. 1 only
+B. 2 only
+C. Bothofthe above
+D. Noneofthe above
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>115
+Removing or restricting rights to use an IT Service is the responsibility of which process?
+A. Access Management
+B. Incident Management
+C. RequestFulfilment
+D. Change Management
+</Question>
+    <ActualAnswer>A</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>11
+Which role would you MOST expect to be involved in the management of Underpinning
+Contracts?
+A. Service Catalogue Manager
+B. IT Designer/Architect
+C. Process Manager
+D. Supplier Manager
+</Question>
+    <ActualAnswer>D</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>263
+Which of the following statements about processes is INCORRECT?
+A. They are units of organizations designed to perform certain types of work
+B. We must be able to measure them in a relevant manner
+C. They deliver specific results
+D. They respond to specific events
+</Question>
+    <ActualAnswer>A</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>198
+Which of the following is NOT an objective of the Operations Management function?
+A. Swift application of skills to diagnose any IT Operations failures that occur
+B. Regular scrutiny and improvements to achieve improved service at reduced costs
+C. First line Incident investigation and diagnosis logged by users
+D. Maintenance of status quo to achieve stability of day to day processes and activities
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>41
+The BEST description of the purpose of Service Operation is?
+A. To design and build processes that will meet business needs
+B. To deliver and support IT Services at agreed levels to business users and customers
+C. To decide how IT will engage with suppliers during the Service Management Lifecycle
+D. To proactively prevent all outages to IT Services
+</Question>
+    <ActualAnswer>B</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>21
+Within the Continual Service Improvement (CSI) 7 step improvement process, data needs to be
+gathered and analysed from which other area of the lifecycle in order to answer the question "Did
+we get there?"?
+A. Service Strategy
+B. Service Design
+C. Service Operation
+D. Service Transition
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>102
+Which of the following is NOT part of the Service Design phase of the Service Lifecycle?
+A. Produce quality, secure and resilient designs for new or improved services, technology
+architecture, processes or measurement systems that meet all the agreed current and future IT
+requirements oftheorganisation
+B. Take the overall Service Strategies and ensure they are reflected in the Service Design process
+and the service designs that are produced
+C. Produce and maintain all necessary Service Transition packages
+D. Measuring the effectiveness and efficiency of Service Design and the supporting processes
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>93
+Which one of the following statements about Incident reporting and logging is correct?
+A. All calls to the Service Desk must be logged as Incidents to assist in reporting Service Desk
+activity
+B. Incidents reported by technical staff must be logged as problems because technical staff
+manage infrastructure devices not services
+C. Incident can only be reported by users, since they are only the only people who know when a
+service has been disrupted
+D. Incidents can be reported by anyone who detects a disruptions or potential disruption to normal
+service. This includes technical staff
+</Question>
+    <ActualAnswer>B</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>282
+A process owner is responsible for which of the following?
+1. Documenting the process
+2. Defining process Key Performance Indicators (KPIs)
+3. Improving the process
+4. Ensuring process staff undertake the required training
+A. 1, 3 and 4 only
+B. All of the above
+C. 1, 2 and 3 only
+D. 1, 2 and 4 only
+</Question>
+    <ActualAnswer>B</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>108
+Which process is responsible for discussing reports with customers showing whether services
+have met their targets?
+A. Business Relationship Management
+B. Continual Service Improvement
+C. Service Level Management
+D. Availability Management
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>5
+In which core publication can you find detailed descriptions of Service Level Management,
+Availability Management, Supplier Management and IT Service Continuity Management?
+A. Service Transition
+B. Service Design
+C. Service Strategy
+D. Service Operation
+</Question>
+    <ActualAnswer>B</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>291
+Which of the following could BEST be described as "A decision support and planning tool that
+projects
+the likely consequences of a business action"?
+A. A Problem model
+B. A Service Improvement Plan (SIP)
+C. A Request for Change (RFC)
+D. A Business Case
+</Question>
+    <ActualAnswer>D</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>47
+Which of the following is the BEST definition of an Incident?
+A. Loss of ability to operate to specification, or to deliver the required output
+B. A change of state which has significance for the management of a Configuration Item or IT
+Service
+C. A warning that a threshold has been reached, something has changed, or a failure has
+occurred
+D. An unplanned interruption to an IT service or reduction in the quality of an IT service
+</Question>
+    <ActualAnswer>D</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>273
+Which process is primarily supported by the analysis of Patterns of Business Activity (PBA)?
+A. Availability Management
+B. Demand Management
+C. Financial Management
+D. Service Level Management
+</Question>
+    <ActualAnswer>B</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>274
+A change process model should include:
+1 - The steps that should be taken to handle the change with any dependences or co-processing
+defined, including handling issues and unexpected events
+2 - Responsibilities; who should do what, including escalation
+3 - Timescales and thresholds for completion of the actions
+4 - Complaints procedures
+A. 1, 2 and 3 only
+B. All of the above
+C. 1 and 2 only
+D. 1, 2 and 4 only
+</Question>
+    <ActualAnswer>A</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>134
+Which process is responsible for low risk, frequently occurring, low cost changes?
+A. Demand Management
+B. Incident Management
+C. Release and Deployment Management
+D. RequestFulfilment
+</Question>
+    <ActualAnswer>D</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>268
+Which of the following are Service Desk organizational structures?
+1. Local Service Desk
+2. Virtual Service Desk
+3. IT Help Desk
+4. Follow the Sun
+A. 1, 2 and 4 only
+B. 2, 3 and 4 only
+C. 1, 3 and4 only
+D. 1, 2 and 3 only
+</Question>
+    <ActualAnswer>A</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>192
+Which role is accountable for a specific service within an organization?
+A. The Service Level Manager
+B. The Business Relationship Manager
+C. The Service Owner
+D. The Service Continuity Manager
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>17
+Which of these statements about Service Desk staff is CORRECT?
+A. Service Desk staff should be recruited from people who have high levels of technical
+skilltominimise the cost of training them
+B. Service Desk staff should be discouraged from applying for other roles as it is more cost
+effective to keep them in the role where they have been trained
+C. The Service Desk can often be used as a stepping stone for staff to move into other more
+technical or supervisory roles
+D. The Service Desk should try to have a high level of staff turnover as the training requirements
+are low and this helps to minimise salaries
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>112
+In many organisations the role of Incident Manager is assigned to the Service Desk. It is important
+that the Incident Manager is given the authority to:
+A. Only manage Incidents effectively at the 3rd line
+B. Manage Incidents effectively through 1st, 2nd and 3rd line
+C. Only manage Incidents effectively through 1st and 2nd line
+D. Only manage Incidents effectively through the 1st line
+</Question>
+    <ActualAnswer>B</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>279
+Which process is responsible for eliminating recurring incidents and minimizing the impact of
+incidents that cannot be prevented?
+A. Service Level Management
+B. Problem Management
+C. Change Management
+D. Event Management
+</Question>
+    <ActualAnswer>B</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>106
+What is the definition of an Alert?
+A. An error message to the user of an application
+B. An audit report that indicates areas where IT is not performing according to agreed procedures
+C. A warning that a threshold has been reached or that something has changed
+D. A type of Incident
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>42
+Which of the following is NOT an aim of the Change Management process?
+A. Overall business riskisoptimised
+B. Standardised methods and procedures are used for efficient and prompt handling of all
+Changes
+C. All budgets and expenditures are accounted for
+D. All changes to Service Assets and Configuration Items (CIs) are recorded in the Configuration
+Management system
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>14
+Which of the following sentences BEST describes a Standard Change?
+A. A change to the service provider's established policies and guidelines
+B. A pre-authorised change that has an accepted and established procedure
+C. A change that is made as the result of an audit
+D. A change that correctly follows the required change process
+</Question>
+    <ActualAnswer>B</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>132
+Which process is responsible for managing relationships with vendors?
+A. Change Management
+B. Service Portfolio Management
+C. Supplier Management
+D. Continual Service Improvement
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+  <QuestionAnswer>
+    <Question>208
+What is most likely to cause a loss of faith in the Service Level Management process?
+A. Measurements that match the customer's perception of the service
+B. Clear, concise, unambiguous wording in the Service LevelAgreements(SLAs)
+C. Inclusion of items in the SLA that cannot be effectively measured
+D. Involving customers in drafting Service Level Requirements
+</Question>
+    <ActualAnswer>C</ActualAnswer>
+  </QuestionAnswer>
+</ArrayOfQuestionAnswer>
